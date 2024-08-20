@@ -1,0 +1,1 @@
+SECRET_TOKEN = "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"
